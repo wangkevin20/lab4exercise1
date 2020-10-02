@@ -1,0 +1,24 @@
+
+body{
+background-color: blue;
+margin: 8px 9% 8px 9%;
+border: black 3px solid;
+padding: 9px 9% 9px 9%;
+}
+
+
+
+#two{
+color: red;
+text-align:center;
+margin: 30px 2% 30px 2%;
+border: green 3px dashed;
+padding: 2px 30% 2px 30%;
+}
+
+#paper{
+text-align:left;
+margin:0 auto;
+border: yellow 3px dashed;
+padding: 10px 0% 10px 0%;
+}
